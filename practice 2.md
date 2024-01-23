@@ -88,7 +88,35 @@ ChatGPT все ще перебуває в розробці, але він вже
 Бізнес: ChatGPT можна використовувати для автоматизації завдань, таких як обслуговування клієнтів або написання звітів.<br>
 <p><br>
 
-<img width="1440" alt="Снимок экрана 2023-11-23 в 22 49 35" src="">
+![chatGPT-768x479](https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/25ab79a7-1b7f-43df-8cca-b5eee0ec1e0f) 
+
+<img width="1437" alt="Снимок экрана 2024-01-23 в 22 45 59" src="https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/3e735445-8fbd-4751-99ae-5f5b3f1edafc">
+
+<img width="1440" alt="Снимок экрана 2024-01-23 в 22 46 20" src="https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/bed58f12-4929-4cf6-9440-057d691cdad8">
+
+<img width="1440" alt="Снимок экрана 2024-01-23 в 22 46 46" src="https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/594c8256-370c-474b-9d45-3b1cc6bbb575">
+
+<img width="1440" alt="Снимок экрана 2024-01-23 в 22 47 16" src="https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/dac736c3-4eaf-4661-a2f0-a51951a4c0ef">
+
+<img width="1440" alt="Снимок экрана 2024-01-23 в 22 47 51" src="https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/809f8944-2371-4b45-9f57-04aea1bafc57">
+
+<img width="1440" alt="Снимок экрана 2024-01-23 в 22 48 09" src="https://github.com/DariaBondarenko2/Practice-2-/assets/150924673/cee14045-e805-4a75-b258-7c36003763c5">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
